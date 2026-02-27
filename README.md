@@ -22,3 +22,9 @@ Create communities, meet new people, have conversations, it's made for everyone.
 
 Please note that this project is still in __beta developement__ and is not open to everyone, it's going to officially release as soon as possible..
 And please, report any type of bugs to **linedbugs@gmail.com**.
+
+# Developement 
+
+__Used:__
+
+Stack, Electron, Rust, LiveKit, Valkey, Node.js, TypeScript, Hono, Erlang.
