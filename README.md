@@ -13,10 +13,12 @@ Create communities, meet new people, have conversations, it's made for everyone.
 # What can you do?
 
 **Share media** - Share any type of media with anyone, from GIFs, to PNGs to PDFs, anything.
+
 **Voice call** - Talk with anyone, in private or in public, from DMs to servers.
+
 **Communities** - Create big private or public communities, for your friends or for anyone, upload a variety of emojis of your own choice.
 
 # BETA TEST AND DEVELOPEMENT
 
-Please note that this project is still in __beta developement__ and is not open to everyone, it's going to officially release as soon as possible
+Please note that this project is still in __beta developement__ and is not open to everyone, it's going to officially release as soon as possible..
 And please, report any type of bugs to **linedbugs@gmail.com**.
